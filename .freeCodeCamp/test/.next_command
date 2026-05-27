@@ -42,3 +42,4 @@ alias
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
 ./bike-shop.sh
+SELECT bike-shop.sh FROM rentals
